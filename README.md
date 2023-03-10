@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/adp-23-kattarplabs/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/prattak86.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/adp-23-kattarplabs/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=10&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
